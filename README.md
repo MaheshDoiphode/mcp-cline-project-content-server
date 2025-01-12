@@ -2,6 +2,8 @@
 
 An MCP server that provides access to project files and their contents.
 
+<a href="https://glama.ai/mcp/servers/qmqbqlz2c4"><img width="380" height="200" src="https://glama.ai/mcp/servers/qmqbqlz2c4/badge" alt="Project Content Server MCP server" /></a>
+
 ## Installation
 
 1. Clone the repository
